@@ -16,7 +16,7 @@ The Flyingballs.exe can be found in the ``bin`` directory.
 
 Make sure to install SDL2. Then run:
 ```
-test
+Comming soon
 ```
 
 ## Making Changes
