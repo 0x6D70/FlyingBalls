@@ -55,4 +55,4 @@ private:
     std::vector<Ball *> balls;
 };
 
-#endif //SDL2_GLEW_OPENGL_TEMPLATE_GAME_H
+#endif
