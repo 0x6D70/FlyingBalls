@@ -2,6 +2,8 @@
 
 FlyingBalls shows balls flying around in a space without gravity with physically correct collisions.
 
+![How it looks](https://github.com/0x6D70/FlyingBalls/raw/main/screenshot.png)
+
 ## Building
 
 ### Windows
