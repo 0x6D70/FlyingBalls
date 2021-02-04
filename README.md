@@ -10,12 +10,13 @@ Make sure that you have g++ installed and run the following command:
 ```
 g++ -I ./include/ -o bin/FlyingBalls ball.cpp game.cpp main.cpp Vector2D.cpp -std=c++11 -lstdc++ -lSDL2main -lSDL2
 ```
+The Flyingballs.exe can be found in the ``bin`` directory.
 
 ### Linux
 
 Make sure to install SDL2. Then run:
 ```
-test
+Comming soon
 ```
 
 ## Making Changes
