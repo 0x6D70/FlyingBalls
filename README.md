@@ -1,7 +1,7 @@
 # FlyingBalls
 
 FlyingBalls shows balls flying around in a space without gravity with physically correct collisions.
-It can be downloaded under Realeses for x64 Windows
+It can be downloaded under Releases for x64 Windows
 
 ![How it looks](https://github.com/0x6D70/FlyingBalls/raw/main/screenshot.png)
 
